@@ -1,0 +1,7 @@
+C:\Users\mikep\source\repos\html_converter\html_converter\bin\Debug\html_converter.exe.config
+C:\Users\mikep\source\repos\html_converter\html_converter\bin\Debug\html_converter.exe
+C:\Users\mikep\source\repos\html_converter\html_converter\bin\Debug\html_converter.pdb
+C:\Users\mikep\source\repos\html_converter\html_converter\obj\Debug\html_converter.csprojAssemblyReference.cache
+C:\Users\mikep\source\repos\html_converter\html_converter\obj\Debug\html_converter.csproj.CoreCompileInputs.cache
+C:\Users\mikep\source\repos\html_converter\html_converter\obj\Debug\html_converter.exe
+C:\Users\mikep\source\repos\html_converter\html_converter\obj\Debug\html_converter.pdb
