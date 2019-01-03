@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace html_converter
 {
@@ -10,13 +6,11 @@ namespace html_converter
     {
         static void Main(string[] args)
         {
-            HTML html = new HTML();
-
+            HTML html = new HTML();           
             html.getGreeting();
             html.getInput();
             html.getOutput();
             Console.ReadLine();
-
         }
     }
 }
