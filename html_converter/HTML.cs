@@ -4,8 +4,8 @@ namespace html_converter
 {
     internal class HTML
     {     
-       string greeting = "HTML Converter";
-       string html = "<h1>Grocery List</h1>\n" +
+       private string greeting = "HTML Converter";
+       private string html = "<h1>Grocery List</h1>\n" +
                      "<ul>\n" +
                      "<li>Eggs</li>\n" +
                      "<li>Milk</li>\n" +
@@ -35,8 +35,7 @@ namespace html_converter
                        .Replace("<h1>", " ")
                        .Replace("</h1>", "")
                        .Replace("<ul>", "")
-                       .Replace("</ul>", "")
-                       .Replace("    ", "");
+                       .Replace("</ul>", "");                   
            
             Console.WriteLine("Parsed OUTPUT:\n" + html);         
             return html;
